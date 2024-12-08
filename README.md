@@ -1,1 +1,20 @@
-# po-lab4-products
+## Zadanie: Implementacja figur
+
+## Cel zadania
+
+Zaimplementuj klasy zgodzie z diagramem klas
+
+![Diagram klas](shop.png)
+
+i testami jednostkowymi umieszczonymi w:.
+
+- `test_shop.cpp`
+
+
+## Test
+
+Aby uruchomić testy jednostkowe, wykonaj komendę w termnalu:
+
+```bash
+make test_shop
+```
