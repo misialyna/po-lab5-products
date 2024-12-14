@@ -16,5 +16,6 @@ i testami jednostkowymi umieszczonymi w:.
 Aby uruchomić testy jednostkowe, wykonaj komendę w termnalu:
 
 ```bash
+make test_products
 make test_shop
 ```
