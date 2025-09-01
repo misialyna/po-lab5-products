@@ -15,6 +15,8 @@ i testami jednostkowymi umieszczonymi w:.
 
 Aby uruchomić testy jednostkowe, wykonaj komendę w termnalu:
 
+/// nie zgadzają się komendy sprawdzające, które są podane w tym miejscu z tymi, które widoczne są z mojego dostępu ./po-lab5-products/misialyna. W moim widoku jest tylko jedna komenda "make test_shop"
+
 ```bash
 make test_products
 make test_shop
