@@ -1,4 +1,4 @@
-## Zadanie: Implementacja figur
+## Zadanie: Implementacja systemu produktów i sklepu
 
 ## Cel zadania
 
